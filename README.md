@@ -13,3 +13,6 @@ pffp: Problems for fine programmers
    (representing an integer) to the integer.
    Also, do the reverse: Integer to String
    Bonus: Extend this to floating points
+
+4. Write a program to generate all the combinations of all the characters in a given string,
+   or a list of characters
