@@ -4,6 +4,7 @@ pffp: Problems for fine programmers
 In the summers of 2009 and 2010, I offered a course (Python for fine Programmers) at the department of Computer Science, at Technical University Munich.  
  
  2009: http://www14.informatik.tu-muenchen.de/lehre/2009SS/python/
+ 
  2010: http://www14.informatik.tu-muenchen.de/lehre/2010SS/pffp/ 
 
 Over the past few years, I have lost/misplaced the solutions/programs to many of the problems I had given as weekly exercises. I try to quickly go through the list, and write down the solutions here.
