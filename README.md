@@ -28,6 +28,6 @@ Over the past few years, I have lost/misplaced the solutions/programs to many of
 4. Tower of Hanoi: Write a program to solve the problem of tower of Hanoi. The disks could be represented by numbers, and each pole/needle could be a list.
    a. Python - https://github.com/sillyfellow/pffp/blob/master/python/tower_of_hanoi.py
 
-5. Write a program to generate all the combinations of all the characters in a given string,
+5. Write a program to generate all the permutations of all the characters in a given string,
    or a list of characters
 
