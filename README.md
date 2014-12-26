@@ -1,11 +1,11 @@
 pffp: Problems for fine programmers
 ===================================
 
-In the summers of 2009 and 2010, I offered a course (Python for fine Programmers) at the department of Computer Science, at Technical University Munich.  
- 
+In the summers of 2009 and 2010, I offered a course (Python for fine Programmers) at the department of Computer Science, at Technical University Munich.
+
  2009: http://www14.informatik.tu-muenchen.de/lehre/2009SS/python/
- 
- 2010: http://www14.informatik.tu-muenchen.de/lehre/2010SS/pffp/ 
+
+ 2010: http://www14.informatik.tu-muenchen.de/lehre/2010SS/pffp/
 
 Over the past few years, I have lost/misplaced the solutions/programs to many of the problems I had given as weekly exercises. I try to quickly go through the list, and write down the solutions here.
 
@@ -22,8 +22,12 @@ Over the past few years, I have lost/misplaced the solutions/programs to many of
 3. Write a program, without using the int function of python, to convert a string (representing an integer) to the integer.
    Also, do the reverse: Integer to String
    Bonus: Extend this to floating points
-   
+
    a. Python - https://github.com/sillyfellow/pffp/blob/master/python/atoitoa.py
 
-4. Write a program to generate all the combinations of all the characters in a given string,
+4. Tower of Hanoi: Write a program to solve the problem of tower of Hanoi. The disks could be represented by numbers, and each pole/needle could be a list.
+   a. Python - https://github.com/sillyfellow/pffp/blob/master/python/tower_of_hanoi.py
+
+5. Write a program to generate all the combinations of all the characters in a given string,
    or a list of characters
+
