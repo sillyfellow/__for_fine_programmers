@@ -35,4 +35,5 @@ Over the past few years, I have lost/misplaced the solutions/programs to many of
 
 5. Write a program to generate all the permutations of all the characters in a given string,
    or a list of characters
+   a. Python - https://github.com/sillyfellow/pffp/blob/master/python/permutation.py
 
