@@ -37,3 +37,7 @@ Over the past few years, I have lost/misplaced the solutions/programs to many of
    or a list of characters
    a. Python - https://github.com/sillyfellow/pffp/blob/master/python/permutation.py
 
+6. Write a program for the following.  There is a List A[n] of n integers. You
+   have to create another List Output such that Output[i] will be equal to the
+   product of all the elements of A except A[i].  Using a division operator is
+   not permitted.
