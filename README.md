@@ -9,23 +9,28 @@ In the summers of 2009 and 2010, I offered a course (Python for fine Programmers
 
 Over the past few years, I have lost/misplaced the solutions/programs to many of the problems I had given as weekly exercises. I try to quickly go through the list, and write down the solutions here.
 
-1. Write three different functions, each of which gives the fibonacci number correspondin to the input number. (iterative, recursive & memoized recursive)
+1. Write three different functions, each of which gives the fibonacci number
+   correspondin to the input number. (iterative, recursive & memoized
+   recursive)
    Bonus: Write a 4th and better function (matrix multiplication)
 
    a. Python - https://github.com/sillyfellow/pffp/blob/master/python/fib.py
 
-2. Write a program to find out the square root of a given number. (Without the help of python math library). (think of binary search)
+2. Write a program to find out the square root of a given number. (Without the
+   help of python math library). (think of binary search)
    Bonus: Extend this to nth root.
 
    a. Python - https://github.com/sillyfellow/pffp/blob/master/python/nth_root.py
 
-3. Write a program, without using the int function of python, to convert a string (representing an integer) to the integer.
+3. Write a program, without using the int function of python, to convert a
+   string (representing an integer) to the integer.
    Also, do the reverse: Integer to String
    Bonus: Extend this to floating points
 
    a. Python - https://github.com/sillyfellow/pffp/blob/master/python/atoitoa.py
 
-4. Tower of Hanoi: Write a program to solve the problem of tower of Hanoi. The disks could be represented by numbers, and each pole/needle could be a list.
+4. Tower of Hanoi: Write a program to solve the problem of tower of Hanoi. The
+   disks could be represented by numbers, and each pole/needle could be a list.
    a. Python - https://github.com/sillyfellow/pffp/blob/master/python/tower_of_hanoi.py
 
 5. Write a program to generate all the permutations of all the characters in a given string,
