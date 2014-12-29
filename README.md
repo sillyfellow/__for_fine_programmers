@@ -57,6 +57,7 @@ Over the past few years, I have lost/misplaced the solutions/programs to many of
    and subsublists) as an input and outputs a single list which has the
    members of the sublists/subsublists as elements.  And input of [1, [2, 3],
    [[4, [5], 6], 7], 8] would give an output of [1, 2, 3, 4, 5, 6, 7, 8].
+   a. Python - https://github.com/sillyfellow/pffp/blob/master/python/flatten.py
 
 10. Write a class for a node of a binary tree. (Not necessarily a binary search
     tree). Implement the basic methods.
