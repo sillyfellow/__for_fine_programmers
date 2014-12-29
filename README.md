@@ -61,4 +61,5 @@ Over the past few years, I have lost/misplaced the solutions/programs to many of
 
 10. Write a class for a node of a binary tree. (Not necessarily a binary search
     tree). Implement the basic methods.
-    a. Python - https:/github.com/sillyfellow/mishmash/blob/master/Python/simple_tree/tree.py
+    a. Python - https://github.com/sillyfellow/mishmash/blob/master/Python/simple_tree/tree.py
+
