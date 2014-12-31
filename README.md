@@ -72,3 +72,8 @@ Over the past few years, I have lost/misplaced the solutions/programs to many of
 11. Write a python program to evaluate a mathematical expression (which uses +,
     -, * and /). (Hint: Infix to Postfix and use List as a stack) Bonus:
     Implement the ability to have parenthesis.
+   a. Python - https://github.com/sillyfellow/pffp/blob/master/python/evaluate_expression.py
+
+12. Implement any three of the set operations for any collective (list, sets) using lambda
+    forms/functions
+   a. Python - https://github.com/sillyfellow/pffp/blob/master/python/set_operations_lambda.py
