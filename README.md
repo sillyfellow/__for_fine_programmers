@@ -69,3 +69,6 @@ Over the past few years, I have lost/misplaced the solutions/programs to many of
 
     a. Python - https://github.com/sillyfellow/mishmash/blob/master/Python/simple_tree/tree.py
 
+11. Write a python program to evaluate a mathematical expression (which uses +,
+    -, * and /). (Hint: Infix to Postfix and use List as a stack) Bonus:
+    Implement the ability to have parenthesis.
