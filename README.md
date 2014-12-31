@@ -61,5 +61,11 @@ Over the past few years, I have lost/misplaced the solutions/programs to many of
 
 10. Write a class for a node of a binary tree. (Not necessarily a binary search
     tree). Implement the basic methods.
+
+    10.x Write a python program which implements a Binary Search Tree. Implement the methods
+    for insertion, deletion, searching and traversal.
+
+    The binary tree class from previous lecture could be used as the base class.
+
     a. Python - https://github.com/sillyfellow/mishmash/blob/master/Python/simple_tree/tree.py
 
