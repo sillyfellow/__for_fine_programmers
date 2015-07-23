@@ -10,7 +10,7 @@ In the summers of 2009 and 2010, I offered a course (Python for fine Programmers
 Over the past few years, I have lost/misplaced the solutions/programs to many of the problems I had given as weekly exercises. I try to quickly go through the list, and write down the solutions here.
 
 1. Write three different functions, each of which gives the fibonacci number
-   correspondin to the input number. (iterative, recursive & memoized
+   corresponding to the input number. (iterative, recursive & memoized
    recursive)
    Bonus: Write a 4th and better function (matrix multiplication)
 
