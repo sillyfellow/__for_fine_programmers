@@ -14,6 +14,10 @@ def itoa(n):
     return ''.join([chr(d + ord('0')) for d in digits])
 
 
+def itoa_r(n):
+  return chr(n + ord('0')) if n < 10 else itoa(n / 10) + itoa(n % 10)
+
+
 def Usage(name):
     print "Usage: %s <n>" % name
 
@@ -29,6 +33,10 @@ if __name__ == "__main__":
         print "Error!"
 
     s2 = itoa(n)
+    if s != s2:
+        print "Error2"
+
+    s2 = itoa_r(n)
     if s != s2:
         print "Error2"
 
