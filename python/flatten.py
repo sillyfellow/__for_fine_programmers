@@ -8,6 +8,15 @@ def flatten(l):
     if len(l) == 1:
         return flatten(l[0])
     return flatten(l[0]) + flatten(l[1:])
+    
+# The following is even shorter.
+
+def flatten(l):
+    if type(l) is not list:
+        return [l]
+    if not len(l):
+        return []
+    return flatten(l[0]) + flatten(l[1:])
 
 #>>> flatten([12, 13])
 #[12, 13]
